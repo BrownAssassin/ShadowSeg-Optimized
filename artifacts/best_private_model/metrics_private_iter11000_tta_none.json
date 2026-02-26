@@ -1,0 +1,16 @@
+{
+  "num_images": 10,
+  "IoU_background": 0.6179256789058218,
+  "IoU_shadow": 0.2226797941305965,
+  "mIoU": 0.42030273651820915,
+  "Acc_background": 0.6386633411361822,
+  "Acc_shadow": 0.7712121461082173,
+  "mAcc": 0.7049377436221997,
+  "aAcc": 0.6556192724669375,
+  "public_proxy_score": 0.3831344537880341,
+  "split": "private",
+  "tta": "none",
+  "shadow_threshold": null,
+  "config": "configs\\shadow_deeplabv3plus_r50.py",
+  "checkpoint": "work_dirs\\shadow_deeplabv3plus_r50_render_expanded_12000\\iter_11000.pth"
+}

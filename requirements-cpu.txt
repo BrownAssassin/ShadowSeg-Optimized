@@ -1,0 +1,14 @@
+# Working CPU baseline (Python 3.10, Windows)
+# Install command:
+# python3.10 -m pip install -r requirements-cpu.txt --index-url https://download.pytorch.org/whl/cpu
+
+pip==25.3
+setuptools==80.10.2
+wheel==0.46.3
+numpy==1.26.4
+opencv-python==4.8.1.78
+torch==2.1.0+cpu
+torchvision==0.16.0+cpu
+mmengine==0.10.7
+mmcv-lite==2.1.0
+mmsegmentation==1.2.2

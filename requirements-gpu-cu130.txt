@@ -1,0 +1,15 @@
+# GPU migration target (CUDA 13.0 wheels, Python 3.10, Windows)
+# This works on RTX 50-series (sm_120), e.g. RTX 5070 Laptop GPU.
+# Install command:
+# python3.10 -m pip install -r requirements-gpu-cu130.txt --index-url https://download.pytorch.org/whl/cu130
+
+pip==25.3
+setuptools==80.10.2
+wheel==0.46.3
+numpy==1.26.4
+opencv-python==4.8.1.78
+torch==2.10.0+cu130
+torchvision==0.25.0+cu130
+mmengine==0.10.7
+mmcv-lite==2.1.0
+mmsegmentation==1.2.2
