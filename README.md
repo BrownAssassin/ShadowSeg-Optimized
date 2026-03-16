@@ -18,6 +18,7 @@ This repository contains:
 - Original hackathon submission: [ShadowSeg: Lighting-Aware Terrain Intelligence (Devpost)](https://devpost.com/software/shadowseg-lighting-aware-terrain-intelligence)
 - Origin: DeveloperWeek 2026 Hackathon
 - Original team members:
+  - Mrinank Sivakumar ([BrownAssassin](https://github.com/BrownAssassin))
   - Arv Bali ([ArvBali2101](https://github.com/ArvBali2101))
   - Myles Liu
   - Kenji Baritua
