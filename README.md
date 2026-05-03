@@ -1,5 +1,12 @@
 # ShadowSeg: Lighting-Aware Terrain Intelligence
 
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)](https://pytorch.org/)
+[![MMSegmentation](https://img.shields.io/badge/MMSegmentation-OpenMMLab-0099CC)](https://github.com/open-mmlab/mmsegmentation)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Shadow%20Segmentation-green)](https://en.wikipedia.org/wiki/Computer_vision)
+[![Project](https://img.shields.io/badge/Project-DeveloperWeek%202026%20Hackathon-orange)](https://devpost.com/software/shadowseg-lighting-aware-terrain-intelligence)
+[![Repo Size](https://img.shields.io/github/repo-size/BrownAssassin/ShadowSeg-Optimized)](https://github.com/BrownAssassin/ShadowSeg-Optimized)
+
 Binary semantic segmentation for shadow detection using MMSegmentation.
 Originally created as a DeveloperWeek 2026 Hackathon project, with continued post-submission model development in this repository.
 
